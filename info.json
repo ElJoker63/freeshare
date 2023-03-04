@@ -1,5 +1,5 @@
 {
     "name":"FreeShare Media",
     "version":"0.1",
-    "api":"https://"
+    "api":"https://raw.githubusercontent.com/ElJoker63/freeshare/main/list.json"
 }
