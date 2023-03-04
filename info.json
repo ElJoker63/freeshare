@@ -1,7 +1,5 @@
-[
-    {
-        "name":"FreeShare Media",
-        "version":"0.1",
-        "api":"https://"
-    }
-]
+{
+    "name":"FreeShare Media",
+    "version":"0.1",
+    "api":"https://"
+}
