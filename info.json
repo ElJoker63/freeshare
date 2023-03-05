@@ -1,6 +1,6 @@
 {
     "name":"FreeShare Media",
     "version":"0.1",
-    "api":"https://640453cc3bdc59fa8f36714b.mockapi.io/api/v1/video",
+    "api":"https://raw.githubusercontent.com/ElJoker63/freeshare/main/list.json",
     "appdl":""
 }
