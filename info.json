@@ -1,6 +1,6 @@
 {
     "name":"FreeShare Media",
-    "version":"0.4",
+    "version":"0.3",
     "api":"https://raw.githubusercontent.com/ElJoker63/freeshare/main/list.json",
     "appdl":"https://www.aedrive.ga/FreeShare.apk"
 }
