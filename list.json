@@ -18,7 +18,7 @@
     },{
         "img":"http://152.206.119.219:8000/file/205.jpg",
         "title":"3 videos que no deberías ver a solas",
-        "url":"https://gitlab.reduc.edu.cu/api/v4/projects/703/repository/files/1.mp4/raw?ref=main",
+        "url":"https://gitlab.reduc.edu.cu/api/v4/projects/703/repository/files/1.mp4/raw?ref=main&private-token=glpat-yAwQp7QxqUqfF42bYKtf",
         "channel":"Tomex",
         "img-channel":"https://yt3.ggpht.com/ytc/AL5GRJU6K9HCNqq4uS_ezoKlH-nZOSUakEdvSf8MyGQksA=s88-c-k-c0x00ffffff-no-rj",
         "likes":"100",
